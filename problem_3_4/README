@@ -1,0 +1,4 @@
+The main code for this problem is in the problem_3_4.py file- all the relevant code will be executed with the file.
+
+The experiments for hyper-parameter tuning are the contents of the other python files. Plots will be produced upon executing those files.
+
